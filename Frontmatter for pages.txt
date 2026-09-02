@@ -1,0 +1,55 @@
+Frontmatter for pages
+
+---
+title: [required]
+tags: [optional]
+keywords: [optional]
+last_updated: [optional]
+sidebar: [required]
+summary: [optional]
+hide_sidebar: true
+permalink: [required]
+# toc: [false to disable table of contents]
+---
+
+---
+title: { Required / will appear in the HTML as the page title}
+sidebar: { Required / use "default" to match the sidebar on every other page }
+permalink: { Required / Must be unique.  The permalink must match the filename in order for automated links to work. Additionally, you must include the “.html” in the filename. Do not put forward slashes around the permalink }
+
+hide_sidebar: { Optional / This is custom code that GHW added to this site - if you set this to "true" then the sidebar and the toggle will not appear on the page }
+tags: { Optional / Tags can be added but must match the controlled vocabulary in the \_data\tags.yml file}
+keywords: { Optional }
+last_updated: { Optional / use the format YYYY-MM-DD }
+summary: { Optional }
+datatable: { Optional if set to "true" then tables on the scripts for the datatables plugin are added to the page}
+toc: { Optional / set to "false" if you don't want the table of conents to appear on a page }
+---
+
+---
+title: 
+sidebar: default
+permalink: 
+# folder: 
+# hide_sidebar: true
+# tags: 
+# keywords: 
+# last_updated: 
+# summary: 
+# datatable: 
+# toc: false
+---
+
+
+
+
+Frontmatter for post
+
+---
+title: My sample post
+tags: content_types
+keywords: pages, authoring, exclusion, frontmatter
+sidebar: mydoc_sidebar
+permalink: mydoc_pages.html
+summary: "This is some summary frontmatter for my sample post."
+---

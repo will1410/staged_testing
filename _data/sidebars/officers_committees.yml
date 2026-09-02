@@ -1,0 +1,120 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Sidebar
+  levels: two
+  folders:
+
+  - title: About
+    output: web, pdf
+    folderitems:
+
+    - title: About
+      output: web, pdf
+      url: /about.html
+
+  - title: News
+    output: web, pdf
+    folderitems:  
+
+    - title: Current news
+      output: web
+      url: /news.html
+
+    - title: News archive
+      output: web
+      url: /news_archive.html
+
+  - title: Calendar
+    output: web, pdf
+    folderitems: 
+
+    - title: Calendar
+      output: web, pdf
+      url: /calendar.html
+
+  - title: Governance
+    output: web, pdf
+    folderitems: 
+
+    - title: Governance 
+      output: web, pdf
+      url: /aspen_governance.html
+
+    - title: Bylawas
+      output: web, pdf
+      url: /bylaws.html
+
+    - title: Finances
+      output: web, pdf
+      url: /finances.html
+
+    - title: Officers and committees
+      output: web, pdf
+      url: /officers_committees.html
+
+  - title: Current officers
+    output: web, pdf
+    folderitems: 
+
+    - title: Bryan Jones (President)
+      output: web, pdf
+      url: /bryan_jones.html
+
+    - title: Sierra Chastain-Rittue (Vice President)
+      output: web, pdf
+      url: /sierra_chastain_rittue.html
+
+    - title: Bob Bennhoff (Treasurer)
+      output: web, pdf
+      url: /bob_bennhoff.html
+
+    - title: Linda Kramer (Secretary)
+      output: web, pdf
+      url: /linda_kramer.html
+
+    - title: Daniel Barden
+      output: web, pdf
+      url: /daniel_barden.html
+
+    - title: Kris Becker
+      output: web, pdf
+      url: /kris_becker.html 
+
+    - title: Melissa Brenneman
+      output: web, pdf
+      url: /melissa_brenneman.html
+
+    - title: Desiree Saunders
+      output: web, pdf
+      url: /desiree_saunders.html
+
+    - title: George Williams
+      output: web, pdf
+      url: /george_williams.html
+
+  - title: Technical
+    output: web, pdf
+    folderitems: 
+
+    - title: Technical committee bylawas
+      output: web, pdf
+      url: /tc_bylaws.html
+
+    - title: Technical committee members
+      output: web, pdf
+      url: /tc_members.html
+
+  - title: Get involved
+    output: web, pdf
+    folderitems: 
+
+    - title: Get involved
+      output: web, pdf
+      url: /get_involved.html
+
+    - title: Meetings
+      output: web, pdf
+      url: /meetings.html
+    
+# Copyright 2021 Google LLC

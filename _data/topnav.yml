@@ -1,0 +1,48 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: About 
+      url: /about
+    - title: News
+      url: /news
+    - title: Calendar 
+      url: /calendar
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Governance
+      folderitems: 
+        - title: Governance
+          url: aspen_governance.html
+        - title: Bylaws
+          url: bylaws.html
+        - title: Finances
+          url: finances.html
+        - title: Officers and committees
+          url: officers_committees.html
+    - title: Technical
+      folderitems: 
+        - title: Technical committee bylaws
+          url: tc_bylaws.html
+        - title: Technical committee members
+          url: tc_members.html
+    - title: Get involved
+      folderitems:
+        - title: Get involved 
+          url: get_involved.html
+        - title: Meetings 
+          url: meetings.html
+    - title: Resources
+      folderitems:
+        - title: Aspen help center
+          external_url: https://aspen-discovery.atlassian.net/wiki/spaces/Help/overview
+        - title: Jira
+          external_url: https://aspen-discovery.atlassian.net/jira/software/c/projects/DIS/list
+
+
+
+# Copyright 2026 by Aspen Library Software Foundation
