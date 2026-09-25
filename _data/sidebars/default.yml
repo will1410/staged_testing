@@ -13,27 +13,23 @@ entries:
       output: web, pdf
       url: /about.html
 
-  - title: News
+    - title: Curriculum Vitae
+      output: web, pdf
+      url: /curriculum_vitae.html
+
+  - title: Posts
     output: web, pdf
     folderitems:  
 
-    - title: Current news
+    - title: Current posts
       output: web
       url: /news.html
 
-    - title: News archive
+    - title: Post archive
       output: web
       url: /news_archive.html
 
-  - title: Calendar
-    output: web, pdf
-    folderitems: 
-
-    - title: Calendar
-      output: web, pdf
-      url: /calendar.html
-
-  - title: Governance
+  - title: Work
     output: web, pdf
     folderitems: 
 

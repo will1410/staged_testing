@@ -2,16 +2,21 @@
 # If you are using the createtag script, don't leave a blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
-  - getting_started
-  - content_types
-  - navigation
-  - formatting
-  - publishing
-  - single_sourcing
-  - special_layouts
-  - collaboration
-  - news
-  - troubleshooting
-  - mobile
+  - music
+  - tv
+  - movies
+  - music
+  - rock_and_roll
+  - jazz 
+  - classical 
+  - compilations
+  - records_story
+  - science_fiction 
+  - mystery 
+  - thriller 
+  - star_trek 
+  - doctor_who 
+  - billy_joel 
+  - the_bobs
 
 # Copyright 2021 Google LLC
