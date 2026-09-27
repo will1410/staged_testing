@@ -119,7 +119,7 @@ Prior to working in libraries I worked in various restaurant and driving jobs in
 
 ## Presentations and Publications
 
-### koha-US conference 2026
+### koha-US conference 2026 (Fayetteville, Arkansas)
 
   - WORKING SESSION: Beginning jQuery Examples
   - [Slides](https://will1410.github.io/basicjquery2026/){:target="_blank"}
@@ -140,47 +140,48 @@ Prior to working in libraries I worked in various restaurant and driving jobs in
   - [Slides](https://docs.google.com/presentation/d/1tVJ6K6_O5NsSrdnX4KPqvk5F2KVC7w8R/edit?usp=drive_link&ouid=113407091346002353084&rtpof=true&sd=true){:target="_blank"}
   - Christopher and I often record a live edition of our bi-weekly podcast at the koha-US conference and this year's edition focused on Koha's circulation rules interface.
 
-### Kansas Library Association Conference 2025
+### Kansas Library Association Conference 2025 (Manhattan, Kansas)
 
   - Koha Exploerer's Group meeting and presentation
   - With Jason Robb, Amber Hoskins, and Ashley Hernandez
   - [Slides](https://docs.google.com/presentation/d/1KCdCEFKCi5PZsPDBDYKBs2qnTdhC9W091TCY17Ho7-g/edit?usp=sharing){:target="_blank"}
   - Annually we meet at KLA and share news and updates about Koha with other Koha users in Kansas.
 
-### AspenCon 2025
+### AspenCon 2025 (Nashville, Tennessee)
 
   - PANEL: Governance Task Force Panel
   - [Video recording](https://youtu.be/4jsORNBfrXY?si=O3HspxFzNfJHjJyl&t=7278%20){:target="_blank"}
   - [Slides](https://docs.google.com/document/d/1_Kq6kKADU_ZuopgKA-H-b-KxGSOP9Sw-ZmFi9Imf2jM/edit?usp=sharing){:target="_blank"}
   - I participated in this panel where we discussed the process of creating a governing body for Aspen and the process of joining the Open Library Foundation.
 
-### MPLA 2025
+### MPLA 2025 (Grand Forks, ND)
 
   - PRESENTATION: Using the Koha open source ILS in a large consortial environment
   - [Slides](https://docs.google.com/presentation/d/1wxQT5nIF4dg6bwk3Pe2jhfeTtIYP7KBGHME-QFjkvlA/edit?usp=sharing){:target="_blank"}
   - This presentation focused on how to implement a Koha shared catalog over a large area.
 
-### koha-US 2025
+### koha-US 2025 (Providence, Rhode Island)
 
   - WORKING SESSION: jQuery and CSS
   - I led a small group workshop teaching librarians how to use the CSS and Javascript/jQuery customization tools in Koha.
 
-### WolfCon25
+### WolfCon25 (Kansas City, Missouri)
 
   - PRESENTATION: Ad Astra per Aspera: Koha use and community in Kansas
   - With Jason Robb from Southeast Kansas Library System
   - [Slides](https://docs.google.com/presentation/d/1lXCrnLuSv_z35IgDfBn-r_WwMEMlu5yPep8m-rysPIQ/edit?usp=sharing){:target="_blank"}
   - Koha has been in use at three of the seven Kansas regional library systems to manage multi-type library consortia since 2008.  Two additional consortia have migrated to Koha within the last few years.  We will talk about our own system's history with Koha, why we chose Koha, and how we work together in Kansas, with the Koha community in the USA, and with the Koha community world-wide.  As the Koha community works towards joining the OLF, we hope to introduce Koha community to the attendees of WOLFcon2025.
 
-### 
+### koha-US 2024 (Round Rock, Texas)
 
-  - 
-  - [Video recording]()
-  - [Slides]()
+  - The Terrific Every-Other-Thursday Training Videos Live – An Update on Notices and Slips
+  - [Video recording](https://youtu.be/M6kF3302LVU?si=ohJmsnsh3LTHSiK1){:target="_blank"}
+  - [Slides](https://docs.google.com/presentation/d/1MofUSkUW6FUq40gfBqI2G7Zm86CehMz4PaOVJR2VqeU/edit?usp=sharing){:target="_blank"}
 
-### 
+### koha-US 2023 (Pourtsmouth, Rhode Island)
 
-  - 
+  - Ad Astra per Aspera: Koha Administration in Kansas
+    - With Jason Robb, Michael Adamyk, and Eric Gustafson 
   - [Video recording]()
   - [Slides]()
 
@@ -353,10 +354,6 @@ Prior to working in libraries I worked in various restaurant and driving jobs in
 - [View on LCLD archived Website](https://web.archive.org/web/20070909165024/http://www.latahlibrary.org/Director%20Columns/Are%20Libraries%20Doomed%208%2027%2007.htm){:target="_blank"}
 - [PDF](../pdf/daily_news/2007-08-29.pdf)
 
-### Library district begins magazine adoption campaign - June 20, 2007
-
-- [Moscow Pullman Daily News website](https://dnews.com/pulse/commentary-library-district-begins-magazine-adoption-campaign/article_9f651bfe-97c6-5757-a354-3ef748ffde4a.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2007-06-20.pdf)
 
 ## Volunteering 
 

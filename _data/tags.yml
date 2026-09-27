@@ -2,21 +2,35 @@
 # If you are using the createtag script, don't leave a blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
-  - music
-  - tv
-  - movies
-  - music
-  - rock_and_roll
-  - jazz 
-  - classical 
-  - compilations
-  - records_story
-  - science_fiction 
-  - mystery 
-  - thriller 
-  - star_trek 
-  - doctor_who 
+  - aspen 
+  - best_of
   - billy_joel 
-  - the_bobs
+  - bobs 
+  - bond 
+  - book 
+  - cd 
+  - classical 
+  - compilation 
+  - dn 
+  - doctor_who 
+  - dsn
+  - fantasy 
+  - jazz 
+  - koha 
+  - lcld 
+  - movies 
+  - music 
+  - mystery 
+  - record 
+  - records_story 
+  - review 
+  - rock 
+  - science_fiction 
+  - star_trek 
+  - tas
+  - thriller 
+  - tng
+  - tos
+  - tv 
 
 # Copyright 2021 Google LLC

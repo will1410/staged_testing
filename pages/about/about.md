@@ -16,8 +16,8 @@ last_updated: 2026-09-20
 
 I am George.
 
-I am not currently looking for a job, but you can find my (Curriculum Vitae)[curriculum_vitae.html]
+I am not currently looking for a job, but you can find my [Curriculum Vitae](curriculum_vitae.html)
 
 ## Why should you listen to me
 
-Listen to me at your own risk
+Listen to me at your own risk!

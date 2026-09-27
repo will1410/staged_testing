@@ -29,48 +29,5 @@ entries:
       output: web
       url: /news_archive.html
 
-  - title: Work
-    output: web, pdf
-    folderitems: 
-
-    - title: Governance 
-      output: web, pdf
-      url: /aspen_governance.html
-
-    - title: Bylawas
-      output: web, pdf
-      url: /bylaws.html
-
-    - title: Finances
-      output: web, pdf
-      url: /finances.html
-
-    - title: Officers and committees
-      output: web, pdf
-      url: /officers_committees.html
-
-  - title: Technical
-    output: web, pdf
-    folderitems: 
-
-    - title: Technical committee bylawas
-      output: web, pdf
-      url: /tc_bylaws.html
-
-    - title: Technical committee members
-      output: web, pdf
-      url: /tc_members.html
-
-  - title: Get involved
-    output: web, pdf
-    folderitems: 
-
-    - title: Get involved
-      output: web, pdf
-      url: /get_involved.html
-
-    - title: Meetings
-      output: web, pdf
-      url: /meetings.html
     
 # Copyright 2021 Google LLC
