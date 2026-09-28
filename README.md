@@ -1,3 +1,3 @@
-# aspen_website_sample
+# Untitled self-indulgent website
 
-This is a test version of what may become an aspen discovery website
+This is a test version of what may become hopperdietzel.org
