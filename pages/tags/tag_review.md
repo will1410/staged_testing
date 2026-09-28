@@ -1,6 +1,6 @@
 ---
 title: "Review"
-tagname: review
+tagName: review
 search: exclude
 permalink: tag_review.html
 sidebar: default

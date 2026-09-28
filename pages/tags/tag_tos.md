@@ -1,6 +1,6 @@
 ---
 title: "Star Trek: The Original Series"
-tagname: tos
+tagName: tos
 search: exclude
 permalink: tag_tos.html
 sidebar: default

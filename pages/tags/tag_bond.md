@@ -1,6 +1,6 @@
 ---
 title: "James Bond"
-tagname: bond
+tagName: bond
 search: exclude
 permalink: tag_bond.html
 sidebar: default

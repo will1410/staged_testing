@@ -1,6 +1,6 @@
 ---
 title: "The Bobs"
-tagname: bobs
+tagName: bobs
 search: exclude
 permalink: tag_bobs.html
 sidebar: default

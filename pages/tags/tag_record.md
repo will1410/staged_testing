@@ -1,6 +1,6 @@
 ---
 title: "Record"
-tagname: record
+tagName: record
 search: exclude
 permalink: tag_record.html
 sidebar: default

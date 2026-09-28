@@ -1,6 +1,6 @@
 ---
 title: "Music"
-tagname: music
+tagName: music
 search: exclude
 permalink: tag_music.html
 sidebar: default

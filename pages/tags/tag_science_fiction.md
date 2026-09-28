@@ -1,6 +1,6 @@
 ---
 title: "Science Fiction"
-tagname: science_fiction
+tagName: science_fiction
 search: exclude
 permalink: tag_science_fiction.html
 sidebar: default

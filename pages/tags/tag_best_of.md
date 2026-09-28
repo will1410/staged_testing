@@ -1,6 +1,6 @@
 ---
 title: "Best Of"
-tagname: best of
+tagName: best of
 search: exclude
 permalink: tag_best_of.html
 sidebar: default

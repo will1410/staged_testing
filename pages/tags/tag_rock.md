@@ -1,6 +1,6 @@
 ---
 title: "Rock and Roll"
-tagname: rock
+tagName: rock
 search: exclude
 permalink: tag_rock.html
 sidebar: default

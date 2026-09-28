@@ -1,6 +1,6 @@
 ---
 title: "Jazz"
-tagname: jazz
+tagName: jazz
 search: exclude
 permalink: tag_jazz.html
 sidebar: default

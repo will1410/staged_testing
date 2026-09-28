@@ -2,35 +2,43 @@
 # If you are using the createtag script, don't leave a blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
-  - aspen 
+  - album
+  - aspen
   - best_of
-  - billy_joel 
-  - bobs 
-  - bond 
-  - book 
-  - cd 
-  - classical 
-  - compilation 
-  - dn 
-  - doctor_who 
+  - billy_joel
+  - bobs
+  - bond
+  - book
+  - cd
+  - classical
+  - column
+  - comedy
+  - compilation
+  - country
+  - dn
+  - doctor_who
   - dsn
-  - fantasy 
-  - jazz 
-  - koha 
-  - lcld 
-  - movies 
-  - music 
-  - mystery 
-  - record 
-  - records_story 
-  - review 
-  - rock 
-  - science_fiction 
-  - star_trek 
+  - fantasy
+  - favorite
+  - jazz
+  - koha
+  - lcld
+  - movies
+  - music
+  - mystery
+  - note
+  - popular_music
+  - record
+  - records_story
+  - review
+  - rock
+  - science_fiction
+  - single
+  - star_trek
   - tas
-  - thriller 
+  - thriller
   - tng
   - tos
-  - tv 
+  - tv
 
 # Copyright 2021 Google LLC

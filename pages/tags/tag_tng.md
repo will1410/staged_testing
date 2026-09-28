@@ -1,6 +1,6 @@
 ---
 title: "Star Trek: The Next Generation"
-tagname: tng
+tagName: tng
 search: exclude
 permalink: tag_tng.html
 sidebar: default

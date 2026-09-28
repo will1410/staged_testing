@@ -1,6 +1,6 @@
 ---
 title: "Classical"
-tagname: classical
+tagName: classical
 search: exclude
 permalink: tag_classical.html
 sidebar: default

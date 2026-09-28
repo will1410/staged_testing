@@ -1,6 +1,6 @@
 ---
 title: "Latah County Library District"
-tagname: lcld
+tagName: lcld
 search: exclude
 permalink: tag_lcld.html
 sidebar: default

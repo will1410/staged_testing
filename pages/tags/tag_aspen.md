@@ -1,6 +1,6 @@
 ---
 title: "Aspen"
-tagname: aspen
+tagName: aspen
 search: exclude
 permalink: tag_aspen.html
 sidebar: default

@@ -1,6 +1,6 @@
 ---
 title: "Star Trek: The Animated Series"
-tagname: tas
+tagName: tas
 search: exclude
 permalink: tag_tas.html
 sidebar: default

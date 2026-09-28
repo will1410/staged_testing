@@ -1,6 +1,6 @@
 ---
 title: "Koha"
-tagname: koha
+tagName: koha
 search: exclude
 permalink: tag_koha.html
 sidebar: default

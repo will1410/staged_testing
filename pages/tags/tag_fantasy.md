@@ -1,6 +1,6 @@
 ---
 title: "Fantasy"
-tagname: fantasy
+tagName: fantasy
 search: exclude
 permalink: tag_fantasy.html
 sidebar: default

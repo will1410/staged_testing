@@ -1,6 +1,6 @@
 ---
 title: "Book"
-tagname: book
+tagName: book
 search: exclude
 permalink: tag_book.html
 sidebar: default

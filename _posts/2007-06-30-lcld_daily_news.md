@@ -1,10 +1,13 @@
 ---
 title: Library district begins magazine adoption campaign
-tags: latah_county_library_district, moscow_pullman_daily_news, columns
+tags: 
+  - lcld
+  - dn
+  - column
 keywords: Daily News, Latah County Library
 sidebar: default
-permalink: 2007-06-30.html
-#summary: ""
+permalink: 2007-06-30-lcld_daily_news.html
+summary: "Help fund magazine subscriptions at the library!"
 ---
 
 Originally published in the *Moscow Pullman Daily News* and on the Latah County Library District website, June, 20, 2007

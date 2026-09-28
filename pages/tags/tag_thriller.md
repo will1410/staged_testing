@@ -1,6 +1,6 @@
 ---
 title: "Thriller"
-tagname: thriller
+tagName: thriller
 search: exclude
 permalink: tag_thriller.html
 sidebar: default

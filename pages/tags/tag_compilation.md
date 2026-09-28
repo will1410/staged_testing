@@ -1,6 +1,6 @@
 ---
 title: "Compilation"
-tagname: compilations
+tagName: compilations
 search: exclude
 permalink: tag_compilation.html
 sidebar: default

@@ -1,6 +1,6 @@
 ---
 title: "Mystery"
-tagname: mystery
+tagName: mystery
 search: exclude
 permalink: tag_mystery.html
 sidebar: default

@@ -1,6 +1,6 @@
 ---
 title: "Billy Joel"
-tagname: billy_joel
+tagName: billy_joel
 search: exclude
 permalink: tag_billy_joel.html
 sidebar: default

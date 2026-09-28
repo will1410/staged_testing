@@ -1,6 +1,6 @@
 ---
 title: "Movies"
-tagname: movies
+tagName: movies
 search: exclude
 permalink: tag_movies.html
 sidebar: default

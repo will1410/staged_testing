@@ -1,6 +1,6 @@
 ---
 title: "Star Trek: Deep Space Nine"
-tagname: ds9
+tagName: ds9
 search: exclude
 permalink: tag_ds9.html
 sidebar: default

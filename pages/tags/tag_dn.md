@@ -1,6 +1,6 @@
 ---
 title: "Moscow Pullman Daily News"
-tagname: moscow_pullman_daily_news
+tagName: dn
 search: exclude
 permalink: tag_dn.html
 sidebar: default

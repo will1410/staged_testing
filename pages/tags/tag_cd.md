@@ -1,6 +1,6 @@
 ---
 title: "Compact Disc"
-tagname: cd
+tagName: cd
 search: exclude
 permalink: tag_cd.html
 sidebar: default

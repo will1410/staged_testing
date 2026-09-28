@@ -1,6 +1,6 @@
 ---
 title: "Doctor Who"
-tagname: doctor_who
+tagName: doctor_who
 search: exclude
 permalink: tag_doctor_who.html
 sidebar: default

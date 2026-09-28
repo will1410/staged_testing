@@ -1,6 +1,6 @@
 ---
 title: "Television"
-tagname: tv
+tagName: tv
 search: exclude
 permalink: tag_tv.html
 sidebar: default

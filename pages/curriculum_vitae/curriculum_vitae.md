@@ -197,162 +197,65 @@ Prior to working in libraries I worked in various restaurant and driving jobs in
   - [Video recording]()
   - [Slides]()
 
-### Gift suggestions from library staff - November 27, 2015
+### Moscow Pullman Daily News columns 
 
-- [Moscow Pullman Daily News website](https://www.dnews.com/local-news/libraries-gift-suggestions-from-library-staff75fc06e9){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20160131141006/http://latahlibrary.org/columns/2015/2015.11.28.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2015-11-27.pdf)
-
-### Sharing innovative ideas with libraries - September 25, 2015
-
-- [Moscow Pullman Daily News website](https://www.dnews.com/local-news/sharing-innovative-ideas-with-libraries06ff290a){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20160131202953/http://latahlibrary.org/columns/2015/2015.09.26.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2015-09-25.pdf)
+  - Between 2007 and 2015 I wrote 29 short articles for a weekly column that the library had in the [**Moscow Pullman Daily News**](https://www.dnews.com/) related to library services at the Latah County Library District. 
+  - [Click to access these articles](tag_dn.html)
 
 
-### Latah County Library's Food for Fines 2015 - April 10, 2015
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/latah-county-librarys-food-for-fines-2015/article_6814c4cb-d20d-5dd4-80e3-0ecd341ca870.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20160309200223/http://www.latahlibrary.org/columns/2015/2015.04.11.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2015-04-10.pdf)
 
-### Suggestions for your winter reading list - December 26, 2014
 
-- [Moscow Pullman Daily News website](https://www.dnews.com/local-news/suggestions-for-your-winter-reading-list-1704760c){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20150911223116/http://latahlibrary.org/columns/2014/2014.12.27.suggestions.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2014-12-26.pdf)
 
-### When patrons ask 'Which e-book device should I buy?' - October 24, 2014
 
-- [Moscow Pullman Daily News website](https://www.dnews.com/local-news/library-column-when-patrons-ask-which-e-book-device-should-i-buy-3a1c77f1){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20160414055120/http://www.latahlibrary.org/columns/2014/2014.10.25.which.device.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2014-10-24.pdf)
 
-### Staying current in an ever-changing world - August 1, 2014
 
-- [Moscow Pullman Daily News website](https://www.dnews.com/local-news/library-column-staying-current-in-an-ever-changing-world-c8d357f0){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20160414055437/http://www.latahlibrary.org/columns/2014/2014.08.02.staying.current.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2014-08-01.pdf)
 
-### Library staff suggests hot weather reads - July 11, 2014
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/library-column-library-staff-suggests-hot-weather-reads/article_458b7605-df73-5eaa-86e1-4daeb0377b42.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2014-07-11.pdf)
 
-### Communities and staff support our libraries - June 20, 2014
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/library-column-communities-and-staff-support-our-libraries/article_a8061e6d-cb85-5f6c-af08-39c4deb0f74e.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20160414060227/http://www.latahlibrary.org/columns/2014/2014.06.21.community.staff.support.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2014-06-20.pdf)
 
-### Pokemon Club at Moscow Library - May 9, 2014
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/library-column-pokemon-club-at-moscow-library/article_30c495c8-1f95-5f42-afc0-37b48c05a127.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20160415012430/http://www.latahlibrary.org/columns/2014/2014.05.10.pokemon.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2014-05-09.pdf)
 
-### Food for Fines library campaign helps our local communities - March 28, 2014
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/library-column-food-for-fines-library-campaign-helps-our-local-communities/article_f93325fc-77b1-5177-b71b-ce7646723dea.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20160414043429/http://www.latahlibrary.org/columns/2014/2014.03.29.food.for.fines.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2014-03-28.pdf)
 
-### Happy anniversary, Koha - April 26, 2013
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/happy-anniversary-koha/article_014dc305-7c6a-55dd-ba91-f279b4a47e4a.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20150910125626/http://www.latahlibrary.org/columns/2013/2013.04.27.happy.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2013-04-26.pdf)
 
-### Help the food banks, thank the volunteers - April 5, 2013
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/help-the-food-banks-thank-the-volunteers/article_2e971e2a-3cc3-5834-b4d8-35594729ed51.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20150910200407/http://www.latahlibrary.org/columns/2013/2013.04.06.help.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2013-04-05.pdf)
 
-### Branch libraries always changing for the better - August 17, 2012
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/branch-libraries-always-changing-for-the-better/article_e2c2f94d-d1b3-53f8-bba4-b395ba68624f.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20150907183605/http://latahlibrary.org/columns/2012/2012.08.18.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2012-08-17.pdf)
 
-### Making the transition at the library - April 13, 2012
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/making-the-transition-at-the-library/article_27672997-d9eb-5280-a655-c176ee95841e.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20150907174241/http://latahlibrary.org/columns/2012/2012.04.14.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2012-04-13.pdf)
 
-### Library's Food for Fines program is a win-win - March 23, 2012
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/librarys-food-for-fines-program-is-a-win-win/article_adca6ca1-e51d-52e2-8761-188cdb440f41.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20150907182123/http://latahlibrary.org/columns/2012/2012.03.24.asp){:target="_blank"}
-- [PDF](../pdf/daily_news/2012-03-23.pdf)
 
-### Pick up great reads for summer - July 29, 2011
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/pick-up-great-reads-for-summer/article_346be9de-2659-5bfd-97a0-57b03661acd1.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2011-07-29.pdf)
 
-### A new Bond book, 48 years after the death of Ian Fleming - July 8, 2011
 
-- [Moscow Pullman Daily News website](https://www.dnews.com/local-news/library-column-a-new-bond-book-48-years-after-the-death-of-ian-fleming-3ec8a5f9){:target="_blank"}
-- [PDF](../pdf/daily_news/2011-07-08.pdf)
 
-### A look at access services for Latah libraries - March 4, 2011
 
-- [Moscow Pullman Daily News website](https://dnews.com/life/library-column-a-look-at-access-services-for-latah-libraries/article_82c9c581-64d8-5817-80cb-e59461cd17ab.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2011-03-04.pdf)
 
-### Spenser with an 'S,' like the English poet - October 8, 2010
 
-- [Moscow Pullman Daily News website](https://dnews.com/slice_of_life/library-column-spenser-with-an-s-like-the-english-poet/article_bfaf925d-1d97-53ab-a18c-beeea45e305a.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2010-10-08.pdf)
 
-### Bookdrop fire had an upside, but not encouraged again - August 8, 2010
 
-- [Moscow Pullman Daily News website](https://dnews.com/slice_of_life/library-column-bookdrop-fire-had-an-upside-but-not-encouraged-again/article_40508ae3-f4fe-59ec-89f7-9832613bfaa2.html){:target="_blank"}
 
-- [PDF](../pdf/daily_news/2010-08-06.pdf)
 
-### Reading aloud - books for all reading levels - January 8, 2010
 
-- [Moscow Pullman Daily News website](https://dnews.com/slice_of_life/library-column-reading-aloud---books-for-all-reading-levels/article_3c108e68-e322-55df-b20e-6614473e7f01.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2010-01-08.pdf)
 
-### Readers recommend some good books for summer - June 12, 2009
 
-- [Moscow Pullman Daily News website](https://dnews.com/slice_of_life/library-column-readers-recommend-some-good-books-for-summer/article_0f35f1a5-d412-5c3b-90fb-4e8eff861c13.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2009-06-12.pdf)
 
-### Library computer use getting more fair - October 3, 2008
 
-- [Moscow Pullman Daily News website](https://dnews.com/slice_of_life/library-column-library-computer-use-getting-more-fair/article_d17bbefe-94d5-5c3e-a8ec-56f2574acc45.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2008-10-03.pdf)
 
-### Even small libraries offer big selection in Latah County - August 1, 2008
 
-- [Moscow Pullman Daily News website](https://dnews.com/slice_of_life/even-small-libraries-offer-big-selection-in-latah-county/article_c7570154-e298-5997-85cb-7bab892b6740.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2008-08-01.pdf)
 
-### Automatic e-mails improve library service - June 20, 2008
 
-- [Moscow Pullman Daily News website](https://dnews.com/slice_of_life/library-column-automatic-e-mails-improve-library-service/article_b9ae10fd-00ef-55c9-b818-3fc777daabfd.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2008-06-20.pdf)
 
-### 'Food for Fines' an opportunity to get rid of late charges - March 26, 2008
 
-- [Moscow Pullman Daily News website](https://dnews.com/pulse/library-column-food-for-fines-an-opportunity-to-get-rid-of-late-charges/article_7700e910-215a-500c-9153-2e3d3e4e63c1.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2007-03-26.pdf)
 
-### Latah County Library District goes the distance to reach residents - December 12, 2007
 
-- [Moscow Pullman Daily News website](https://dnews.com/pulse/commentary-latah-county-library-district-goes-the-distance-to-reach-residents-george-williams/article_9a079671-577b-53dd-9ff8-5a101483c39a.html){:target="_blank"}
-- [PDF](../pdf/daily_news/2007-12-12.pdf)
 
-### Library in no danger of becoming 'doomed' - August 29, 2007
 
-- [Moscow Pullman Daily News website](https://dnews.com/pulse/commentary-library-in-no-danger-of-becoming-doomed/article_de5138bd-98d6-5426-b879-9265691dfdf7.html){:target="_blank"}
-- [View on LCLD archived Website](https://web.archive.org/web/20070909165024/http://www.latahlibrary.org/Director%20Columns/Are%20Libraries%20Doomed%208%2027%2007.htm){:target="_blank"}
-- [PDF](../pdf/daily_news/2007-08-29.pdf)
+
 
 
 ## Volunteering 
